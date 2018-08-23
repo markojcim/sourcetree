@@ -1,0 +1,3 @@
+add test1 to make new commit and test changes log
+
+before stash command
